@@ -29,7 +29,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://*.youtube.com/*", "https://www.youtube.com/*"],
+      "matches": ["https://*.youtube.com/*", "https://www.youtube.com/*", "https://m.youtube.com/*", "https://*.youtube.be/*"],
       "js": ["js/ExtPay.js", "js/content.js"]
     },
     {
