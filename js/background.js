@@ -319,20 +319,20 @@ function txnModal() {
                       </g>
                     </svg>
                     <div class="popup-text">
-                      For any questions and support, or if you're already contributed via PayPal, reach out to 0x48piraj@gmail.com.
+                      For any questions and support, or if you're already contributed via PayPal, reach out to chanzkiepogi93@gmail.com.
                     </div>
                   </div>
                   <div class="info">
                     Sustaining such a project in the face of a giant like Google is challenging, demanding considerable time and effort relying on your support.
-                    <br/><br/>To ensure uninterrupted usage, get a lifetime license for 5.99$ (one-time).
+                    <br/><br/>To ensure uninterrupted usage, get a lifetime license for 0.0$ (one-time).
                   </div>
                 </div>
                 <div style="display: flex;justify-content: space-between;">
                   <div style="margin: auto;">
-                      <a href="https://www.paypal.com/paypalme/piyushella" target="_blank"><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5800726/280957380-08d23bdd-a3cc-4f7c-a055-4e0966e7d18f.svg' height="32px"></a>
+                      <a href="https://www.paypal.com/paypalme/Christianzgaming" target="_blank"><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5800726/280957380-08d23bdd-a3cc-4f7c-a055-4e0966e7d18f.svg' height="32px"></a>
                   </div>
                   <div style="margin: auto;">
-                      <a href="https://github.com/sponsors/0x48piraj?frequency=one-time&sponsor=0x48piraj" target="_blank"><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5800726/280957385-f5a8f7fe-a810-4df9-8122-1c77f12474e0.svg' height="44px"></a>
+                      <a href="https://github.com/sponsors/Christianzgaming?frequency=one-time&sponsor=Christianzgaming" target="_blank"><img src='https://github-production-user-asset-6210df.s3.amazonaws.com/5800726/280957385-f5a8f7fe-a810-4df9-8122-1c77f12474e0.svg' height="44px"></a>
                   </div>
                 </div>
                 <div class="buttons">
