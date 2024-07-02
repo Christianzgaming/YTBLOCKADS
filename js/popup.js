@@ -1,7 +1,7 @@
 const extpay = ExtPay('fadblock')
 
 function getArtefacts() {
-    fetch('https://raw.githubusercontent.com/Christianzgaming/fadblock/master/fadblock.json', { 
+    fetch('https://raw.githubusercontent.com/Christianzgaming/YTBLOCKADS/main/fadblock.json', { 
       method: 'GET'
     })
     .then(function(response) { return response.json(); })
